@@ -232,10 +232,10 @@
               ],
     "varAiFoundryModelDeployments" : [
       {
-        "name": "gpt-4.1-mini",
-        "modelName": "gpt-4.1-mini",
+        "name": "gpt-5.2-chat",
+        "modelName": "gpt-5.2-chat",
         "modelFormat": "OpenAI",
-        "modelVersion": "2025-04-14",
+        "modelVersion": "2026-02-10",
         "modelSkuName": "GlobalStandard",
         "modelCapacity": 10
       }
